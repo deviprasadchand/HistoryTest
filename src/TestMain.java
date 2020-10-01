@@ -3,15 +3,3 @@ public class Main {
 		System.out.println("Original Main Class_Edit3");
 	}
 }
-
-class TestClass1 {
-	public void print() {
-		System.out.println("TestClass1_original_edit1");
-	}
-}
-
-class TestClass2 {
-	public void print() {
-		System.out.println("TestClass2_original_edit2");
-	}
-}
